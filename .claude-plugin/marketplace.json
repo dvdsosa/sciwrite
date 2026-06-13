@@ -1,0 +1,17 @@
+{
+  "name": "sciwrite",
+  "owner": {
+    "name": "Lorena A. Barba",
+    "url": "https://github.com/labarba"
+  },
+  "description": "SciWrite — Scientific manuscript writing reviewer based on Stanford's Writing in the Sciences methodology.",
+  "plugins": [
+    {
+      "name": "sciwrite",
+      "source": "./",
+      "description": "Five-pass editorial audit: clutter extraction, voice and verb vitality, sentence architecture, keyword consistency, numerical integrity.",
+      "version": "1.0.1",
+      "license": "CC-BY-4.0"
+    }
+  ]
+}

@@ -73,7 +73,23 @@ If you prefer to limit the skill to a particular project (for example, a project
 
 This approach keeps the skill scoped to one project, which is useful if you are working on multiple manuscripts with different conventions.
 
-### In Claude Code (terminal agent)
+### In Claude Code — Plugin Marketplace (one-line install)
+
+This fork adds plugin marketplace support. Install with two commands:
+
+```
+/plugin marketplace add dvdsosa/sciwrite
+/plugin install sciwrite
+```
+
+Then use the `/sciwrite` slash command in any Claude Code session:
+
+```
+/sciwrite
+Review the Introduction section of my manuscript. [paste text]
+```
+
+### In Claude Code — Manual install (alternative)
 
 Place `SKILL.md` in `.claude/skills/manuscript-review/` inside your manuscript project directory, then launch Claude Code and ask for a review. See [`HOW-TO-USE.md`](HOW-TO-USE.md) for full setup instructions, example prompts, and tips for each review mode.
 
@@ -147,6 +163,12 @@ You can also adjust the severity thresholds, add or remove entries from the clut
 ## Contributing
 
 If you use this skill and find an edge case it doesn't handle well—a field-specific writing convention it misjudges, a common clutter pattern it misses, or a false positive that comes up repeatedly—contributions are welcome. Open an issue describing the case, or submit a pull request with your proposed change.
+
+## Fork and Adaptation Notice
+
+This repository is a fork of [labarba/sciwrite](https://github.com/labarba/sciwrite), originally created by **Lorena A. Barba** and published under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). The original work was developed as part of the course *MAE 6291: Generative AI for Engineering Research* at the George Washington University School of Engineering and Applied Science.
+
+In accordance with CC BY 4.0, this fork credits the original author, links to the original repository, and indicates the changes made: the sole modification is the addition of Claude Code plugin marketplace support (`.claude-plugin/` directory and `commands/sciwrite.md`), enabling one-line installation via `/plugin marketplace add dvdsosa/sciwrite`. No changes have been made to the skill content, methodology, or any other documentation.
 
 ## License
 

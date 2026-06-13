@@ -1,0 +1,22 @@
+{
+  "name": "sciwrite",
+  "version": "1.0.1",
+  "description": "Scientific manuscript writing review for Claude Code: five-pass audit (clutter, voice, structure, keywords, numbers) based on Dr. Kristin Sainani's Writing in the Sciences methodology.",
+  "author": {
+    "name": "Lorena A. Barba",
+    "url": "https://github.com/labarba"
+  },
+  "homepage": "https://github.com/dvdsosa/sciwrite",
+  "repository": "https://github.com/dvdsosa/sciwrite",
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "scientific-writing",
+    "manuscript-review",
+    "writing-clarity",
+    "academic-writing",
+    "editing",
+    "passive-voice",
+    "clutter",
+    "nominalization"
+  ]
+}
