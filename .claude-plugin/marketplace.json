@@ -10,7 +10,7 @@
       "name": "sciwrite",
       "source": "./",
       "description": "Five-pass editorial audit: clutter extraction, voice and verb vitality, sentence architecture, keyword consistency, numerical integrity.",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "license": "CC-BY-4.0"
     }
   ]

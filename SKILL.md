@@ -132,10 +132,19 @@ than ~12 words intervene, the predicate is buried. Recommend restructuring.
 
 **Punctuation for efficiency:**
 - Use a **colon** to set up a list or specific explanation, replacing wordy openings
-- Use a **dash (—)** for emphatic parentheticals or to merge sentences where a
-  transition feels forced
+- Use a **dash (—)** sparingly, for emphatic parentheticals or to merge sentences
+  where a transition feels forced
 - Use **semicolons** to link closely related independent clauses, reducing the
   need for transition words
+
+**Avoid the em-dash-as-parenthesis tic:** Do not use a dash (or hyphen used as a
+dash) to bracket an aside — like this — as a substitute for commas or parentheses.
+This pattern (a pair of dashes wrapping a clause) is a well-known hallmark of
+LLM-generated prose. When suggesting revisions, rewrite such constructions using
+commas, parentheses, or a separate sentence instead. If the original manuscript
+already overuses this pattern, flag it as a MINOR/MAJOR finding (depending on
+frequency) as a possible sign of unedited AI-generated text, per the disciplinary
+conventions constraint below.
 
 **Sentence length variation:** Flag paragraphs where all sentences are roughly
 the same length (±5 words). Recommend varying rhythm: short declarative sentences
