@@ -178,6 +178,6 @@ The source material—Dr. Kristin Sainani's *Writing in the Sciences* video lect
 
 ## Acknowledgments
 
-Developed as part of the course [MAE 6291: Generative AI for Engineering Research](https://generative-ai-engineerin-u4bkjgp.gamma.site) at the George Washington University School of Engineering and Applied Science, and shared through the [GW Engineering AI Academy](https://www.seas.gwu.edu/ai-academy).
+Developed as part of the course [MAE 6291: Generative AI for Engineering Research](https://barbagroup.github.io/mae6291-genai/) at the George Washington University School of Engineering and Applied Science, and shared through the [GW Engineering AI Academy](https://www.seas.gwu.edu/ai-academy).
 
 The writing methodology encoded in this skill is drawn from Dr. Kristin Sainani's [*Writing in the Sciences*](https://www.coursera.org/learn/sciwrite) course at Stanford University. The original video lectures are available on [YouTube](https://www.youtube.com/playlist?list=PLVc-QdfGfSl2Ntc6CvIP83Nj_uHTSdNSw) under a CC-BY license.
